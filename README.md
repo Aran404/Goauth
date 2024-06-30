@@ -13,6 +13,7 @@ A cryptographically secure server with a pre-made SDK/client as an example.
 - Bcrypt Password Hashing
 - SHA-512 HMAC Request Signing
 - DHKE w/AES-256-CBC Encrypted Requests
+- Customizable Context Windows
 
 ## Features (API)
 
