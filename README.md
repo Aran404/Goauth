@@ -48,5 +48,5 @@ A cryptographically secure server with a pre-made SDK/client as an example.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/gpl-3.0/)
+[GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
